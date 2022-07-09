@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bibox-assignment/static/css/main.dc08501c.css",
+    "main.js": "/bibox-assignment/static/js/main.4f5e1182.js",
+    "index.html": "/bibox-assignment/index.html",
+    "main.dc08501c.css.map": "/bibox-assignment/static/css/main.dc08501c.css.map",
+    "main.4f5e1182.js.map": "/bibox-assignment/static/js/main.4f5e1182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc08501c.css",
+    "static/js/main.4f5e1182.js"
+  ]
+}
